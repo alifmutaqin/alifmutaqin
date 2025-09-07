@@ -1,6 +1,6 @@
 ## Hi I'm Alif Mutaqin 👋
 
-![Alif Mutaqin]("C:\Users\DELL\Pictures\Saved Pictures\meja_bekerja.jpg")
+![Alif Mutaqin]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pngtree.com%2Ffreebackground%2Fnighttime-3d-render-of-a-sleek-dark-office-studio-featuring-a-desktop-computer-mockup-on-the-work-table_8728164.html&psig=AOvVaw0DBX33djaSsTXk_1Iw_9B4&ust=1757345827930000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiD-t_9xo8DFQAAAAAdAAAAABAQ")
 <!--
 **alifmutaqin/alifmutaqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
