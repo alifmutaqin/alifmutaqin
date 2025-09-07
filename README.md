@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi I'm Alif Mutaqin 👋
 
+![Alif Mutaqin]("C:\Users\DELL\Pictures\Saved Pictures\meja_bekerja.jpg")
 <!--
 **alifmutaqin/alifmutaqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on at **Home**
+- 🌱 I’m currently learning ***Codeigniter and Laravel Framework***
